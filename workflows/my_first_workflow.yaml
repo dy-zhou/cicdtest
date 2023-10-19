@@ -1,6 +1,6 @@
 name: My first workflow
 on:
-    #any push will trigger this workflow
+#any push will trigger this workflow
 - push
 
 jobs:
